@@ -1,2 +1,5 @@
-def test():
-    print("hello world")
+# Test case for httpimport
+# https://github.com/operatorequals/httpimport/
+
+def hello():
+  print("Hello world")
